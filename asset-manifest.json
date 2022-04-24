@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Roei-Giat-20-04-2022/static/css/main.0227f904.css",
-    "main.js": "/Roei-Giat-20-04-2022/static/js/main.ca5e64c9.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Roei-Giat-20-04-2022/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Roei-Giat-20-04-2022/index.html",
-    "main.0227f904.css.map": "/Roei-Giat-20-04-2022/static/css/main.0227f904.css.map",
-    "main.ca5e64c9.js.map": "/Roei-Giat-20-04-2022/static/js/main.ca5e64c9.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Roei-Giat-20-04-2022/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/WeatherApp-Roei-Giat-20-04-2022/static/css/main.0227f904.css",
+    "main.js": "/WeatherApp-Roei-Giat-20-04-2022/static/js/main.b4b59ccd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/WeatherApp-Roei-Giat-20-04-2022/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/WeatherApp-Roei-Giat-20-04-2022/index.html",
+    "main.0227f904.css.map": "/WeatherApp-Roei-Giat-20-04-2022/static/css/main.0227f904.css.map",
+    "main.b4b59ccd.js.map": "/WeatherApp-Roei-Giat-20-04-2022/static/js/main.b4b59ccd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/WeatherApp-Roei-Giat-20-04-2022/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0227f904.css",
-    "static/js/main.ca5e64c9.js"
+    "static/js/main.b4b59ccd.js"
   ]
 }
