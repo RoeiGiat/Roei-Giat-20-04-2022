@@ -1,3 +1,5 @@
+Please note that node_modules folder has been deleted so please before running the code write the following line of code in the terminal: npm i 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
