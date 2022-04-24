@@ -9,7 +9,7 @@ function Home(props) {
     const [forecastWeather, setForecastWeather] = useState({ DailyForecasts: [{ EpochDate: "", Temperature: { Maximum: { Value: "" }, Minimum: { Value: "" } }, Day: { IconPhrase: "" }, Night: { IconPhrase: "" } }] })
     const [weatherValue, setWeatherValue] = useState("°F")
     const [refresh, doRefresh] = useState(false)
-    const apiKey = "WGQX2A4lD9RjHGPi9ScGGWrVAICKFeIa"
+    const apiKey = "ykyLic1ngBSdr2zt9XCVdkX4AAAoivEE"
     let keySearch = props.cityName
 
     useEffect(() => {
