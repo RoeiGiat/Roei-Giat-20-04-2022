@@ -1,0 +1,140 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  width: 100%;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+
+}
+
+.search {
+  width: 100%;
+}
+
+.weather {
+  border: 1px solid black;
+  width: 70%;
+
+}
+
+.space {
+  display: flex;
+  justify-content: space-around;
+}
+
+.buttonsBorder {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid black;
+  width: 30%;
+}
+
+
+h4 {
+  width: 20%;
+  cursor: pointer;
+  text-align: center;
+}
+
+h5 {
+  cursor: pointer;
+  text-align: center;
+  width: 15%;
+}
+
+
+h4:hover {
+  background-color: lightgreen;
+}
+
+h5:hover {
+  background-color: rgb(216, 125, 125);
+}
+
+input[type="text"] {
+  border: 1px solid black;
+  width: 20%;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.border {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+  width: 15%;
+}
+
+.favorites {
+  width: 20%;
+  cursor: pointer;
+}
+
+.favorites:hover {
+  color: rgb(219, 24, 24)
+}
+
+.light {
+  background-color: lightblue;
+}
+
+
+.dark {
+  background-color: rgb(54, 54, 161);
+}
+
+.favoritesBorder {
+  border: 1px solid black;
+  cursor: pointer;
+  width: 28vh
+}
+
+.favoritesBorder:hover {
+  background-color: lightyellow
+}
+
+
+.favoritesScreen {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around
+}
+
+
+.large {
+  font-size: 600%;
+  color: white
+}
+
+.disperse {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.backgroundClouds {
+  background-size: cover;
+  display: flex;
+  justify-content: space-around;
+}
